@@ -1,0 +1,68 @@
+/* CSS Document */
+/******************************main temp section**************/
+*{ margin:0; padding:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.new{ float:left; margin-left:12%;}
+.clr{ clear:both;}
+.row{ margin-top:5px;}
+.wrapper{}
+/*****************************main temp section***************/
+/*****************************header section start****************/
+.header{ height:200px;  position:relative;}
+.icon1{ position:absolute; top:20px; left:140px; width:10%; height:20px;}
+.icon1 img{ height:30px; width:15%; }
+.icon2{ position:absolute; top:20px; left:300px; width:15%;}
+.icon2 img{ height:40px; width:14%;}
+.logo{ position:absolute; top:20px; left:510px; height:100px; width:20%;}
+.logo img{}
+.icon3{ position:absolute; top:30px; right:100px; width:20%;}
+.icon4{ position:absolute; top:60px; right:100px; width:20%;}
+.icon4 ul li{ display:inline; width:10%;}
+.icon4 ul li a{ text-decoration:none; font-size:15px; background:#000000; }
+/*****************************header section close***************/
+/*****************************nav section start******************/
+.nav{ margin:0% 10% 0% 6%;}
+.nav ul li{ display:inline;}
+.nav ul li a{ font-size:20px; text-decoration:none; padding:1% 1%;}
+
+/*****************************nav section closed*****************/
+/*****************************banner section start***************/
+.banner{ margin-top:1%;}
+.banner img{ width:100%; height:500px; }
+/*****************************sub section **********************/
+.box{ height:300px; background-color:#999999; position:relative;}
+.sub_box{ height:450px; width:60%; position:absolute; top:100px; left:15%;}
+.sub_box{ width:60%; height:450px;}
+/*****************************sub section **********************/
+/*****************************banner section start***************/
+/*****************************mid section************************/
+.mid_upper{ margin-top:20%; height:100px;}
+.mid_upper h1{ color:#333333;}
+.mid_type{ margin:0% 12% 2% 12% ;}
+
+.mid_left{ min-height:300px; width:25%;}
+.mid_left h2{ margin-top:8%; font-size:15px;}
+.mid_left ul li{ margin-top:8%;}
+.mid_left ul li a{ text-decoration:none; padding:2% 2% 2% 2%; background-color:#FF00CC;}
+
+.mid_mid { min-height:300px; width:25%; }
+.mid_mid h3{ margin-top:8%; font-size:15px;}
+.mid_mid ul li{ margin-top:8%;}
+.mid_mid ul li a{ text-decoration:none; padding:2% 2% 2% 2%; background-color:#FF00CC;}
+
+.mid_right{ min-height:300px; width:25%; } 
+.mid_right h4{ margin-top:8%; font-size:15px;}
+.mid_right ul li{ margin-top:8%;}
+.mid_right ul li a{ text-decoration:none; padding:2% 2% 2% 2%; background-color:#FF00CC;}
+/*****************************mid section************************/
+/***********************************range section*****************************/
+.Range{ height:350px; background-color:#CCCCCC;}
+
+/***********************************range section*****************************/
+/***********************************range section*****************************/
+
+/***********************************range section*****************************/
+
+
+
